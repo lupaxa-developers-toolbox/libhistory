@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 
-#define HISTORY_VERSION_STRING "0.0.0"
+#define HISTORY_VERSION_STRING "0.1.0-rc1"
 
 /* HISTORY_OK is success. HISTORY_NOMEM means allocation failed and the
    history was left unchanged, except history_create which sets *history
